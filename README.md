@@ -8,10 +8,10 @@ __Features__
 * Collision detection and interaction tracking
 * CSV-based data logging for user behavior analysis
 
-# Research Value
+__Research Value__
 This project demonstrates simulation-based learning and enables quantitative analysis of user interaction patterns. It supports research in experiential learning, user-driven experimentation, and human–computer interaction in educational environments.
 
-# Tools & Technologies
+__Tools & Technologies__
 * Unity (3D Core)
 * C#
 * Physics Engine
