@@ -8,10 +8,10 @@ An interactive simulation-based learning environment developed in Unity that ena
 * Collision detection and interaction tracking
 * CSV-based data logging for user behavior analysis
 
-__Research Value__ <br>
+# Research Value
 This project demonstrates simulation-based learning and enables quantitative analysis of user interaction patterns. It supports research in experiential learning, user-driven experimentation, and human–computer interaction in educational environments.
 
-__Tools & Technologies__
+## Tools & Technologies
 * Unity (3D Core)
 * C#
 * Physics Engine
